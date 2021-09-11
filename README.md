@@ -1,2 +1,3 @@
-# otus_ML_basic
-Домашки по курсу Machine Learning Basic в Otus
+# Домашки по курсу Machine Learning Basic в Otus
+Ловчикова Екатерина
+katrina_n@mail.ru
