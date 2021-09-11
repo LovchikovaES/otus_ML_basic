@@ -1,3 +1,3 @@
 # Домашки по курсу Machine Learning Basic в Otus
-Ловчикова Екатерина
+Ловчикова Екатерина<br>
 katrina_n@mail.ru
